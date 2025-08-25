@@ -1,7 +1,7 @@
 # Frontend-Expense-Tracker-App-
 
 
-In this project, i  created a personal expense tracker that allows users to manage their income and expenses.This project helped me understand  JavaScript for dynamic updates,DOM manipulation, and handling data using local storage. 
+In this project, i  created a personal expense tracker that allows users to manage their income and expenses.This is built using HTML,CSS,Javascript.This project helped me understand  JavaScript for dynamic updates,DOM manipulation, and handling data using local storage. 
 This project  helped me  understand how to manage user input, perform calculations, and display data in a user-friendly format.
 
 
